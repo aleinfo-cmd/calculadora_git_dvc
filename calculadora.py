@@ -17,3 +17,6 @@ def seno(angulo):                # Recibe un ángulo en grados.
 def coseno(angulo):
     return math.cos(math.radians(angulo))
       # Calcula el coseno.
+def tangente(angulo):
+    return math.tan(math.radians(angulo))
+      # Calcula la tangente.      
